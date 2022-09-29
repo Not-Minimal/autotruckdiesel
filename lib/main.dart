@@ -50,7 +50,7 @@ class _MyHomePageState extends State<MyHomePage> {
               onTap: () {},
             ),
             ListTile(
-              leading: Icon(Icons.article_rounded),
+              leading: Icon(Icons.task_rounded),
               title: const Text('Checklist'),
               onTap: () {},
             ),
